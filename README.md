@@ -6,9 +6,7 @@ An autonomous AI-driven **High-Level Synthesis (HLS) optimization pipeline** tha
 
 ## 🖼️ System Workflow
 
-> Add your workflow image here
-
-![HLS Workflow](./assets/workflow.png)
+![HLS Workflow](https://github.com/sai1298/HALO-Hardware-Agentic-Logic-Optimizer/blob/main/graph_visualization.png)
 
 ---
 
